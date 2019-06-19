@@ -1,0 +1,64 @@
+{
+    "editor.formatOnSave": true,
+    "editor.renderWhitespace": "all",
+    "window.zoomLevel": 0,
+    "workbench.startupEditor": "newUntitledFile",
+    "window.menuBarVisibility": "default",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true,
+        "**/*.orig": true
+    },
+    "editor.rulers": [
+        120,
+        130
+    ],
+    "explorer.confirmDragAndDrop": false,
+    "editor.minimap.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+    "explorer.confirmDelete": false,
+    "html.format.endWithNewline": true,
+    "editor.renderControlCharacters": false,
+    "workbench.statusBar.feedback.visible": false,
+    "csscomb.formatOnSave": true,
+    "csscomb.preset": {
+        "always-semicolon": true,
+        "color-case": "lower",
+        "block-indent": "    ",
+        "color-shorthand": false,
+        "element-case": "lower",
+        "eof-newline": true,
+        "leading-zero": true,
+        "quotes": "double",
+        "space-before-colon": "",
+        "space-after-colon": " ",
+        "space-before-combinator": " ",
+        "space-after-combinator": " ",
+        "space-between-declarations": "\n",
+        "space-before-opening-brace": " ",
+        "space-after-opening-brace": "\n",
+        "space-after-selector-delimiter": "\n",
+        "space-before-selector-delimiter": "",
+        "space-before-closing-brace": "\n",
+        "strip-spaces": true,
+        "tab-size": true
+    },
+    "spellright.notificationClass": "information",
+    "spellright.ignoreRegExpsByClass": {
+        "typescript": [
+            "/import\\s+.+/g"
+        ]
+    },
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.suggest.localityBonus": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "tslint.alwaysShowRuleFailuresAsWarnings": false,
+    "git.autofetch": true
+}

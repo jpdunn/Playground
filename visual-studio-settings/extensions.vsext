@@ -1,0 +1,104 @@
+{
+  "id": "75f874f8-21a9-4750-9299-6746b3bd06eb",
+  "name": "My Visual Studio extensions",
+  "description": "A collection of my Visual Studio extensions",
+  "version": "1.0",
+  "extensions": [
+    {
+      "name": "Align Assignments",
+      "vsixId": "AlignAssignments.41858b2d-ff0b-4a43-80b0-f1b2d6084935"
+    },
+    {
+      "name": "Cloud Explorer for VS 2017",
+      "vsixId": "Microsoft.VisualStudio.CloudExplorer"
+    },
+    {
+      "name": "Copy As Html",
+      "vsixId": "CopyAsHtml.42374550-426a-400e-96f9-237682e8dea6"
+    },
+    {
+      "name": "Custom Document Well",
+      "vsixId": "CustomDocumentWell.ae5b5116-8be8-42af-ae24-212ccb14b1a6"
+    },
+    {
+      "name": "Disable Mouse Wheel Zoom",
+      "vsixId": "DisableMouseWheelZoom.NoahRichardst.fb70c64a-15d3-4384-ad2d-8e83a8bfd897"
+    },
+    {
+      "name": "Double-Click Maximize",
+      "vsixId": "DoubleClickMaximize.050825c2-33a4-4b7d-b3af-bd46bd99a265"
+    },
+    {
+      "name": "Editor Guidelines",
+      "vsixId": "Editor_Guidelines.Microsoft Corp..123716ef-b2ed-4fab-bbcf-1d5f84856ca3"
+    },
+    {
+      "name": "Emphasize!",
+      "vsixId": "Emphasize.thirdwaffle.cef618e9-5abf-4ac2-8cdb-03f574f2ccdb"
+    },
+    {
+      "name": "Extensibility Tools",
+      "vsixId": "f8330d54-0469-43a7-8fc0-7f19febeb897"
+    },
+    {
+      "name": "Extension Manager 2017",
+      "vsixId": "e83d71b8-8bfc-4e06-b145-b0388910c016"
+    },
+    {
+      "name": "Fix Mixed Tabs",
+      "vsixId": "FixMixedTabs.9f1d3050-b986-4b10-ae36-97c6efc5e968"
+    },
+    {
+      "name": "Match Margin",
+      "vsixId": "MatchMargin.d85a25b5-f7b3-46a9-997e-a2d669dc2c93"
+    },
+    {
+      "name": "Middle Click Scroll",
+      "vsixId": "MiddleClickScroll.263a3239-a004-40e6-b790-4fd371832c85"
+    },
+    {
+      "name": "Peek Help",
+      "vsixId": "PeekHelp.51f43c96-8220-43bf-a922-390a361e7640"
+    },
+    {
+      "name": "Power Commands for Visual Studio",
+      "vsixId": "PowerCommands.3ecdd89b-f985-483d-8c94-be37de4dc083"
+    },
+    {
+      "name": "Productivity Power Tools 2017/2019",
+      "vsixId": "ProductivityPowerPack.0d5b9d71-e118-46de-a20c-555176e53900"
+    },
+    {
+      "name": "Quick Launch Tasks",
+      "vsixId": "QuickLaunchTasks"
+    },
+    {
+      "name": "Razor Language Services",
+      "vsixId": "Microsoft.VisualStudio.RazorExtension"
+    },
+    {
+      "name": "Select Hyphenated",
+      "vsixId": "SelectHyphenated.thirdwaffle.3aabc2ff-1bf1-40f7-afb0-36b87c3702c7"
+    },
+    {
+      "name": "Shrink Empty Lines",
+      "vsixId": "SyntacticLineCompression.4452fb8f-b348-49eb-9499-76669d3f9c75"
+    },
+    {
+      "name": "Solution Error Visualizer",
+      "vsixId": "SolutionErrorVisualizer.a392f96b-6b33-4b53-b4bb-3376a05f986c"
+    },
+    {
+      "name": "Time Stamp Margin",
+      "vsixId": "TimeStampMargin.255e8b14-4a53-4eb7-89a7-7ab741c1f612"
+    },
+    {
+      "name": "Windows Machine Learning Code Generator VS 2017",
+      "vsixId": "MLGen"
+    },
+    {
+      "name": "Wix Toolset Visual Studio 2017 Extension",
+      "vsixId": "WixToolset.VisualStudioExtension.Dev15"
+    }
+  ]
+}
