@@ -1,0 +1,17 @@
+.padded {
+  padding-top: 20px;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.compact {
+  width: 80%;
+}
+
+label {
+  color: lightgray;
+}
+
+.button-padding {
+  padding: 10px;
+}

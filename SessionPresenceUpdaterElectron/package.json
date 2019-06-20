@@ -1,0 +1,19 @@
+{
+  "name": "session-presence-updater-electron",
+  "version": "0.0.1",
+  "description": "Discord Rich Presence updater for the GTA Cartel sessions.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "electron src/main.js"
+  },
+  "author": "Josh Dunn",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "discord-rpc": "github:devsnek/discord-rpc",
+    "electron": "^1.8.2",
+    "moment": "^2.20.1",
+    "parse-duration": "^0.1.1",
+    "snekfetch": "^3.6.4"
+  }
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Test Session Presence Updater</title>
+    <link href="style.css" rel="stylesheet">
+</head>
+
+
+<body>
+    <div class="form-table padded">
+        <div class="form-group row">
+            <label for="sessionNameInput" class="col-sm-4 col-form-label">Session Name</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="sessionNameInput" placeholder="Enter session name">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="clientIDInput" class="col-sm-4 col-form-label">Client ID</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="clientIDInput" placeholder="Enter client ID">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="largeImageKeyInput" class="col-sm-4 col-form-label">Large Image Key</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="largeImageKeyInput" placeholder="Enter large image key">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="largeImageTextInput" class="col-sm-4 col-form-label">Large Image Text</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="largeImageTextInput" placeholder="Enter large image text">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="smallImageKeyInput" class="col-sm-4 col-form-label">Small Image Key</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="smallImageKeyInput" placeholder="Enter small image key">
+            </div>
+        </div>
+
+        <div class="form-group row">
+            <label for="smallImageTextInput" class="col-sm-4 col-form-label">Small Image Text</label>
+            <div class="col-sm-8">
+                <input type="text" class="form-control" id="smallImageTextInput" placeholder="Enter small image text">
+            </div>
+        </div>
+
+        <div class="row">
+            <button id="stopButton" class="btn btn-danger col-sm-4">Stop</button>
+            <button id="startButton" class="btn btn-success col-sm-4 offset-sm-4">Start</button>
+        </div>
+    </div>
+    <script src="renderer.js">
+    </script>
+    <link rel="stylesheet" href="../node_modules/bootstrap/dist/css/bootstrap.min.css">
+</body>
+
+</html>
