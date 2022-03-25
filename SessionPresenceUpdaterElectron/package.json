@@ -11,7 +11,7 @@
   "dependencies": {
     "bootstrap": "^4.0.0",
     "discord-rpc": "github:devsnek/discord-rpc",
-    "electron": "^1.8.2",
+    "electron": "^13.6.6",
     "moment": "^2.20.1",
     "parse-duration": "^0.1.1",
     "snekfetch": "^3.6.4"
